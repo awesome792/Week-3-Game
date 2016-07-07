@@ -1,0 +1,50 @@
+/*HEADING 1 */
+.h1
+{
+		font-family: 'Calligraffitti', cursive;
+		color: #ffff00;
+		text-align: center;
+		border-style: dotted; 
+		border-radius: 50px;
+		border-width: 10px;
+		border-color: grey;
+}
+
+	/*HEADING 2*/
+.h2{
+
+	text-align: center;
+	color: #FCFCFF;
+	
+}
+/*COPIED IMAGE FROM GOOGLE SEARCH*/
+html, body
+{
+ background-image: url(http://i.stack.imgur.com/7X3An.png)
+}
+
+/*CENTERED TEXT AND FOOTER COLOR*/
+footer{
+	text-align: center;
+	color: #00ffff;
+}
+
+a{
+font-family: 'Yatra One', cursive;
+color: blue;
+
+
+}
+
+.reset{
+	text-align: center;
+}
+.rules{
+font-family: 'Calligraffitti', cursive;
+color: red;
+}
+.footer{
+
+	text-align: center;
+	color: grey;
+}
